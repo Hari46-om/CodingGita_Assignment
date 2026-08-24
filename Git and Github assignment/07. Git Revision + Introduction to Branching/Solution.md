@@ -24,6 +24,8 @@
 **Answers:**
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/06b3ce35-9b95-45b7-99f6-d6b7b0c14df9" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dc11b88b-3b86-4f9c-9b2d-9ff92dca9b3c" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e490bdff-2b85-4708-8a7e-4a83dde52292" />
+
 
 
 ---
@@ -46,6 +48,13 @@
 4. What does the `-u` flag do in `git push -u origin main`?
 
 **Submission:** Written answers
+
+**Submission:** Written answers
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/31a23341-7356-49af-97d2-5eb58bd0b80c" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e43f9240-4464-40aa-91e8-5e0df85115f6" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a08bc8a8-3466-4dbc-a881-5f92f5c95df2" />
+
 
 ---
 
@@ -89,6 +98,13 @@
 
 **Submission:** Written answers.
 
+**Submission:** Written answers
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/95e60205-110c-4fa9-94f6-4077d4866e38" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/64883724-3916-4da7-abe3-fa2e5b2c5bb7" />
+
+
+
 ---
 
 ### Assignment 5: Conceptual + Reflection
@@ -110,5 +126,11 @@
 4. Write 3 key takeaways from today.
 
 **Submission:** Written answers
+
+**Submission:** Written answers
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f8bd7031-ab01-4c50-90a5-e7e8cd9ce7d2" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9fc8a99e-b388-4537-af93-d09fa038c944" />
+
 
 ---

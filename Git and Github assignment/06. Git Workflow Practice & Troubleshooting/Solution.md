@@ -46,7 +46,16 @@ Submit the following:
 
 **Answers :**
 
-<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/3c55065d-4cd0-4b2c-bd8f-fd0a1eb61596" />
-<img width="2169" height="725" alt="image" src="https://github.com/user-attachments/assets/461423b4-64c3-4516-8dcc-0f667247da06" />
-<img width="2004" height="785" alt="image" src="https://github.com/user-attachments/assets/877599fd-eaec-42cd-af3b-dcd5f330ef8e" />
-<img width="2004" height="785" alt="image" src="https://github.com/user-attachments/assets/cffa8cb0-ca49-4060-91a6-184c594fcfcc" />
+
+**link:**
+https://github.com/Hari46-om/Day-5-practice
+
+
+**screenshot:**
+
+<img width="855" height="236" alt="Screenshot 2026-08-25 091006" src="https://github.com/user-attachments/assets/f4484083-2147-452b-be9d-622cd8a38d50" />
+<img width="868" height="210" alt="Screenshot 2026-08-25 091524" src="https://github.com/user-attachments/assets/99ddb6a3-44b1-4f65-bdc4-e6698fe106f0" />
+<img width="777" height="112" alt="Screenshot 2026-08-25 091123" src="https://github.com/user-attachments/assets/db891a56-563a-4053-96c8-57abffac5770" />
+<img width="855" height="237" alt="Screenshot 2026-08-25 091055" src="https://github.com/user-attachments/assets/1ca8b745-30b3-4535-ba07-0ffa2199cdb2" />
+<img width="1218" height="351" alt="Screenshot 2026-08-25 091149" src="https://github.com/user-attachments/assets/91da3b1a-4727-4e45-9a4b-8762d0292d53" />
+

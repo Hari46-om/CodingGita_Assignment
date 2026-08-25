@@ -1,6 +1,6 @@
----
 
-### Assignment 1: Branching Commands & Naming
+
+### Assignment 1: Branching Commands & Naming###
 
 **Objective:** Revise branching commands and naming conventions.
 

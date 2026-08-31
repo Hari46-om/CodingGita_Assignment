@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>1. Normal Webpage</h2>
+    <!-- Normal webpage: No special permissions are needed. -->
+    <iframe
+      src="https://www.youtube.com/embed/Clzax3wVBtg?si=JGyuRbNugYap1aCy"
+      title="Normal Webpage">
+    </iframe>
+    <h2>2. Fullscreen + Gyroscope</h2>
+    <!-- Video or interactive content that may use fullscreen and gyroscope. -->
+    <iframe
+      src="https://www.youtube.com/embed/Clzax3wVBtg?si=JGyuRbNugYap1aCy"
+      title="Video Player"
+      allow="fullscreen; gyroscope">
+    </iframe>
+    <h2>3. USB Access</h2>
+    <!-- Application that requires communication with USB devices. -->
+    <iframe
+      src="https://www.youtube.com/embed/Clzax3wVBtg?si=JGyuRbNugYap1aCy"
+      title="USB Application"
+      allow="usb">
+    </iframe>
+</body>
+</html>

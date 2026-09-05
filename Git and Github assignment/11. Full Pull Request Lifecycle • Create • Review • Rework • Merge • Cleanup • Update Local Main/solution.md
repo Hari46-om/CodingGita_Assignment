@@ -77,6 +77,18 @@ screenshots --
 
 **Submit:** PR link showing review comment + rework commit, plus merged PR screenshot.
 
+Merged PR link  --  https://github.com/Hari46-om/CG_Assignments-/pull/4/commits
+
+screenshots --
+
+
+<img width="847" height="201" alt="Screenshot 2026-09-05 192625" src="https://github.com/user-attachments/assets/e700d117-7602-48ba-9b0a-c1ad8d95f57a" />
+
+<img width="1142" height="140" alt="Screenshot 2026-09-05 190934" src="https://github.com/user-attachments/assets/9cb0011a-9cd6-4cfe-91f3-ada8ec909243" />
+
+<img width="746" height="95" alt="image" src="https://github.com/user-attachments/assets/0a1da70e-2b26-48b7-8053-0b2028db4f48" />
+
+
 ---
 
 ### Assignment 3 – `feature/navbar` Independent Full Cycle (Mandatory)
@@ -98,6 +110,16 @@ screenshots --
 
 **Submit:** Merged PR link + screenshot of `git log --oneline`.
 
+Merged PR link  --  https://github.com/Hari46-om/CG_Assignments-/pull/5
+
+screenshots --
+
+<img width="973" height="222" alt="Screenshot 2026-09-05 200435" src="https://github.com/user-attachments/assets/af27d9af-2b39-4496-a97d-b91277a81938" />
+
+<img width="668" height="275" alt="Screenshot 2026-09-05 200946" src="https://github.com/user-attachments/assets/141499bf-218d-486e-8f5f-fde34a257164" />
+
+
+
 ---
 
 ### Assignment 4 – Short Reflection (Mandatory)
@@ -110,6 +132,13 @@ Write answer **in your own words** in your notebook:
 - Write the full sequence of commands you used to update local main and delete the local feature branch.
 
 **Submit:** Photos of the hand written answers of the above questions.
+
+**Answer:**
+
+
+<img width="1599" height="1470" alt="image" src="https://github.com/user-attachments/assets/aa1e35f3-9f37-4e64-a9e2-164aa4ec8954" />
+<img width="1570" height="1600" alt="image" src="https://github.com/user-attachments/assets/1fc7dbc9-9015-4bc4-b394-9cb9cff3e9de" />
+
 
 ---
 

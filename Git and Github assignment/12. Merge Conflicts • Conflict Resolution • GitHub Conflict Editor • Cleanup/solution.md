@@ -100,5 +100,3 @@ Commit and push the file to `main`.
 **Submit (optional):** Screenshot of the conflicted file and the resolution commit.
 
 ---
-
-### Deadline: 28th August, 2026.

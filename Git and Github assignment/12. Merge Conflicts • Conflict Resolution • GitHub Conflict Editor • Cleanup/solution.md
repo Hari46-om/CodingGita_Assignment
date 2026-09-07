@@ -36,12 +36,16 @@ My Tasks
 - Screenshot of the successfully merged second PR
 - Screenshot of `git log --oneline` after pull
 
+---
 
 **Answer:**
+- Repository link--https://github.com/Hari46-om/CG_practice
+- <img width="998" height="377" alt="Screenshot 2026-09-07 121916" src="https://github.com/user-attachments/assets/ce8cc53f-872e-44be-aab3-5f6ef1a8fd91" />
+<img width="905" height="203" alt="Screenshot 2026-09-07 123142" src="https://github.com/user-attachments/assets/6c908d85-0d33-404e-bd9b-d5cb17f9aa1b" />
+<img width="965" height="333" alt="Screenshot 2026-09-07 124233" src="https://github.com/user-attachments/assets/c9f9ef1e-2b55-47e2-85d0-c16d644fc6c7" />
 
 
 
----
 
 ### Assignment 2 – Explain & Document the Conflict Markers (Mandatory)
 

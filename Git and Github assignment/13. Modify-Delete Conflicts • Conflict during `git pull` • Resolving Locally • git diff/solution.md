@@ -29,6 +29,15 @@
 
 ---
 
+**Answer**
+- Repository link-- https://github.com/Hari46-om/CG_practice/blob/main/welcome.txt
+- <img width="782" height="235" alt="Screenshot 2026-09-08 171152" src="https://github.com/user-attachments/assets/72404f5f-62a2-4506-a64a-ecfef86421d5" />
+- <img width="517" height="287" alt="Screenshot 2026-09-08 171405" src="https://github.com/user-attachments/assets/4131d85a-a2b7-4dfc-a4f1-60c050e1c68d" />
+
+
+
+
+
 ### Assignment 2 
 **Modify/Delete Conflict**
 

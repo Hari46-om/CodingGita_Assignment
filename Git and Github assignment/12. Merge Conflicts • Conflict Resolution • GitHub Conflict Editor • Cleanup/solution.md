@@ -69,6 +69,12 @@ My Tasks
 
 
 ---
+**Answer**
+<img width="1152" height="1440" alt="image" src="https://github.com/user-attachments/assets/dcf92e22-6f9b-4952-a0b3-4c34025d2184" />
+<img width="1152" height="1389" alt="image" src="https://github.com/user-attachments/assets/7acd3edf-3385-49d7-a93a-88ee86f6030d" />
+<img width="1056" height="1362" alt="image" src="https://github.com/user-attachments/assets/f949b5b5-0780-424b-b93f-80c79e1ad2da" />
+
+
 
 ### Assignment 3 – Short Reflection (Mandatory)
 
@@ -79,11 +85,14 @@ write answer in your own words in your notebook:
 3. What is the difference between `git branch -d` and `git branch -D`?
 4. Write the cleanup commands you used after merging the conflicted PR (delete remote + delete local + pull).
 
-Commit and push the file to `main`.
-
 **Submit:** - Photos of the answers of the above questions.
 
 ---
+**answer**
+<img width="1152" height="1490" alt="image" src="https://github.com/user-attachments/assets/8cba1175-f741-419a-a0eb-81b8bdb457e8" />
+<img width="1599" height="952" alt="image" src="https://github.com/user-attachments/assets/8411f663-3029-44a7-a2b6-8a24547a0539" />
+
+
 
 ### Bonus – Resolve a Conflict Locally (Optional)
 

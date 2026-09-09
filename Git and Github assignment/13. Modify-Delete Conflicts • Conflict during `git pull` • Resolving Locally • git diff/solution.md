@@ -82,7 +82,16 @@
 - Repository link
 
 ---
+**Answer**
 
+edit link-- https://github.com/Hari46-om/CG_practice/tree/feature/notes-edit
+
+delete link-- https://github.com/Hari46-om/CG_practice/tree/feature/notes-delete
+<img width="1067" height="116" alt="Screenshot 2026-09-09 194711" src="https://github.com/user-attachments/assets/83d9238f-aa6c-4e8b-94f0-497a454c8d47" />
+<img width="487" height="591" alt="image" src="https://github.com/user-attachments/assets/84331bd1-a5c8-421d-8191-484742fdb8da" />
+
+- Repository link -- https://github.com/Hari46-om/CG_practice
+---
 ### Assignment 3 
 **Combine Both + Use `git diff` + Reflection**
 
@@ -108,7 +117,6 @@ Write answer in your own words in your notebook:
 4. After resolving any conflict, what three commands do you almost always run?
 
 
-
 **Submit:**
 - Links / screenshots of both conflicts you resolved
 - Screenshots of the three `git diff` commands output
@@ -116,3 +124,7 @@ Write answer in your own words in your notebook:
 - Photos of written answers
 
 ---
+**Answer**
+
+<img width="1599" height="1152" alt="image" src="https://github.com/user-attachments/assets/4b4c749a-1b99-40fb-9c42-5427a23e001a" />
+<img width="1102" height="1342" alt="image" src="https://github.com/user-attachments/assets/8c8ccd26-336b-4d14-8808-36bf6fff9075" />

@@ -29,6 +29,7 @@
 <img width="566" height="126" alt="Screenshot 2026-09-10 171451" src="https://github.com/user-attachments/assets/82b94e04-0406-488e-8b34-63361a1046f4" />
 <img width="595" height="102" alt="Screenshot 2026-09-10 171621" src="https://github.com/user-attachments/assets/a1e617cf-be74-4895-a558-f68a4873eab5" />
 <img width="687" height="285" alt="Screenshot 2026-09-10 171712" src="https://github.com/user-attachments/assets/ec7908f8-2eec-4ffd-8459-20426515ce2d" />
+
 - Repository link--- https://github.com/Hari46-om/CG_practice
 
 ## Assignment 2 – Difference between --soft, --mixed and --hard (Medium)

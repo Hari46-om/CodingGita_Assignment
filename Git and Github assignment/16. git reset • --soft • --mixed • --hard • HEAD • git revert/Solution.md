@@ -70,6 +70,16 @@
 
 ---
 
+**Answer**
+
+
+<img width="558" height="287" alt="Screenshot 2026-09-11 175029" src="https://github.com/user-attachments/assets/ec2cb1c1-c215-4e92-8f9c-b7f455a36cc3" />
+<img width="726" height="331" alt="Screenshot 2026-09-11 175329" src="https://github.com/user-attachments/assets/37be67f2-f16c-438e-9670-6158c5da44cf" />
+<img width="602" height="342" alt="Screenshot 2026-09-11 192327" src="https://github.com/user-attachments/assets/a52d7c2a-a193-495f-9360-949b382e7ac0" />
+<img width="1051" height="1280" alt="image" src="https://github.com/user-attachments/assets/450a4329-b00f-4077-bf70-b6485347edd8" />
+
+- Repository link--https://github.com/Hari46-om/CG_practice
+
 ## Assignment 3 – Practice git revert (Medium)
 
 **Goal:** Safely undo a commit using `git revert` instead of reset.
@@ -96,6 +106,13 @@
 - Repository link
 
 ---
+
+**Answer**
+
+<img width="601" height="227" alt="Screenshot 2026-09-11 222828" src="https://github.com/user-attachments/assets/6949013f-116e-4668-a5b9-d5674957672e" />
+<img width="1152" height="1116" alt="image" src="https://github.com/user-attachments/assets/3706aa73-577c-40fd-bb78-33aa8d8196ef" />
+
+- Repository link--https://github.com/Hari46-om/CG_practice
 
 ## Assignment 4 – Combined Practice + Safety Rules (Hard)
 

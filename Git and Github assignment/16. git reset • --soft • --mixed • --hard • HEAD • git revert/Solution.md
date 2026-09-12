@@ -135,17 +135,12 @@
 
 ---
 
-## Submission Checklist
+**Answer**
 
-| # | Item | Required? |
-|---|------|-----------|
-| 1 | Assignment 1 – before/after reset screenshots | Yes |
-| 2 | Assignment 2 – three reset mode screenshots + written answer photos | Yes |
-| 3 | Assignment 3 – revert screenshot + written answer photos | Yes |
-| 4 | Assignment 4 – final log + written answer photos | Yes |
-| — | GitHub repository link | Yes |
+<img width="582" height="201" alt="Screenshot 2026-09-12 170806" src="https://github.com/user-attachments/assets/b2982d15-5ffd-4b05-8d88-34d3c47544fa" />
+<img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/e207150a-3571-4abf-83f5-857c792a4060" />
+<img width="1152" height="1284" alt="image" src="https://github.com/user-attachments/assets/aa4f1a30-c0e5-4163-bdcc-6773eaa6a182" />
+- Repository link--https://github.com/Hari46-om/CG_practice
 
-**Important Notes:**
-- Be very careful with `git reset --hard` — it can delete your work.
-- Prefer `git revert` when commits are already pushed to GitHub.
-- Always check `git log --oneline` and `git status` before and after these commands.
+
+

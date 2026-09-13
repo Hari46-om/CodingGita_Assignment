@@ -87,3 +87,12 @@ Write short and correct answers for the following:
 - Repository link
 
 ---
+
+**Answer**
+
+<img width="662" height="56" alt="Screenshot 2026-09-13 164935" src="https://github.com/user-attachments/assets/f42712b6-e7f4-4372-b211-0bdc3d49e8d9" />
+<img width="597" height="261" alt="Screenshot 2026-09-13 163850" src="https://github.com/user-attachments/assets/53cc1c9f-19e3-4496-b8b6-1bb8b46c6bcd" />
+<img width="1077" height="1361" alt="image" src="https://github.com/user-attachments/assets/5d350854-e596-4661-b4df-3d759597f1bd" />
+<img width="1599" height="700" alt="image" src="https://github.com/user-attachments/assets/1f3e89e8-4b6d-4665-ba5f-d1d00e87323f" />
+
+- Repository link--https://github.com/Hari46-om/CG_practice

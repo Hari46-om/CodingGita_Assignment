@@ -36,6 +36,15 @@ C0 ────── C1 ────── C2 (main)  ← All restored!
 
 ***
 
+**Answer**
+
+<img width="755" height="115" alt="Screenshot 2026-09-15 195348" src="https://github.com/user-attachments/assets/1b86c8fe-8a31-408e-997f-0c992196e36c" />
+<img width="865" height="76" alt="Screenshot 2026-09-15 195412" src="https://github.com/user-attachments/assets/983326d9-dd5f-4ea0-af6d-f5460553e8f5" />
+<img width="1135" height="231" alt="Screenshot 2026-09-15 195758" src="https://github.com/user-attachments/assets/569cfecc-a3d4-46b8-9257-4d1fc78fd672" />
+<img width="760" height="122" alt="Screenshot 2026-09-15 195835" src="https://github.com/user-attachments/assets/de66a2bc-1615-4fa2-b37b-c47f30fbb8ba" />
+
+-Repository link --http://github.com/Hari46-om/CG_practice/tree/main/reflog-practice-part1
+
 ## 📋 Part 2: Reworking Old Commit (5 Points)
 
 ### Task

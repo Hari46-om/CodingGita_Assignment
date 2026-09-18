@@ -82,6 +82,17 @@ All commits preserved!
 ```
 
 ***
+---
+**Answer**
+
+<img width="780" height="127" alt="Screenshot 2026-09-18 203032" src="https://github.com/user-attachments/assets/6522e907-b6a2-48e3-80f2-3acb8c750e0e" />
+<img width="906" height="368" alt="Screenshot 2026-09-18 203223" src="https://github.com/user-attachments/assets/cde6ddcb-2c17-49f2-96ab-586443ee8ec5" />
+<img width="820" height="201" alt="Screenshot 2026-09-18 203613" src="https://github.com/user-attachments/assets/c9486e70-62c7-46f1-b8df-02a650a6af25" />
+<img width="720" height="112" alt="Screenshot 2026-09-18 203701" src="https://github.com/user-attachments/assets/bf4fe7d5-7988-429a-af3f-c3fb2268a22f" />
+-repository--https://github.com/Hari46-om/CG_practice/tree/main/reflog-practice-part2
+
+
+
 
 ## 📋 Part 3: Reflog Exploration 
 

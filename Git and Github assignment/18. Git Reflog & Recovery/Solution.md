@@ -126,6 +126,22 @@ All commits preserved!
 
 ***
 
+**Answer**
+
+<img width="1141" height="181" alt="Screenshot 2026-09-20 102523" src="https://github.com/user-attachments/assets/5cd971d8-a23b-4e3c-8c70-45bbe20792a5" />
+
+```markdown
+## Reflog Analysis
+
+- **HEAD@{0}**: `git checkout main` - Switched from the `stu/feature` branch to the `main` branch.
+- **HEAD@{1}**: `git rebase origin/main` - The rebase finished and Git returned to the `stu/feature` branch.
+- **HEAD@{2}**: `git rebase origin/main` - The rebase started by checking out `origin/main` as the base for the rebase.
+- **HEAD@{3}**: `git checkout stu/feature` - Switched from the `main` branch to the `stu/feature` branch.
+- **HEAD@{4}**: `git checkout main` - Ran checkout to move from `main` to `main`; since already on `main`, there was no actual branch change.
+```
+
+***
+
 ## 📋 Part 4: Challenge - Multiple Recoveries (BONUS ASSIGNMENT)
 
 ### Task
@@ -142,6 +158,23 @@ All commits preserved!
 ✅ Screenshot of: git reflog showing multiple recoveries
 ✅ Screenshot of: Final git log --oneline --graph
 ✅ Brief write-up: What challenges did you face? How did you solve them?
+```
+
+**Answer**
+
+<img width="897" height="722" alt="Screenshot 2026-09-20 153437" src="https://github.com/user-attachments/assets/b5b15729-2ec3-42f1-8e9c-317fd9aa6afb" />
+<img width="692" height="197" alt="Screenshot 2026-09-20 153550" src="https://github.com/user-attachments/assets/2b9f7027-8530-44d5-b2e2-fac0d3a8aa6b" />
+
+```
+Challenges Faced
+
+The main challenge was understanding what happens to commits after using git reset --hard. After resetting to C2, commits C3 and C4 were no longer visible in the normal Git history.
+
+How I Solved Them
+
+I used git reflog to find the previous positions of HEAD. The reflog showed the commit hashes of the commits that were no longer visible in the normal branch history. I used those commit hashes to recover the lost commits.
+
+Later, after creating C5 and C6, I again reset the branch to C3. I used git reflog again to locate C4, C5, and C6 and recovered them.
 ```
 
 ***

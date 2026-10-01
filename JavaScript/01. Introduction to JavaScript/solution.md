@@ -162,20 +162,87 @@ Answer :- .js
 ## Section D: Conceptual Questions (2 Marks each)
 
 **Q14.** Differentiate between a **static website** and a **dynamic website**. Give one real-world example of each.
+```
+Answer :-Difference Between Static Website and Dynamic Website
+
+Static Website:
+A static website contains fixed content. The content is usually the same for every visitor and does not change unless the website developer manually updates the HTML files. Static websites are simple, fast, and easy to create.
+
+Example: A school information website that only displays the school’s address, contact details, courses, and basic information.
+
+Dynamic Website:
+A dynamic website displays content that can change according to the user, time, or information stored in a database. Users can interact with the website, such as logging in, searching, commenting, or placing orders.
+
+Example: Amazon is a dynamic website because it shows different products, prices, recommendations, and user information and allows users to search and place orders.
+
+```
 
 **Q15.** Explain any two features of JavaScript that make it suitable for creating interactive web pages.
+```
+Answer :-
+Two Features of JavaScript That Make It Suitable for Creating Interactive Web Pages
+
+Event Handling:
+JavaScript can respond to user actions such as clicking a button, moving the mouse, typing in a text box, or submitting a form. This makes web pages interactive.
+Example: When a user clicks a button, JavaScript can display a message or change the content of the page.
+DOM Manipulation:
+JavaScript can change the content, style, and elements of a web page without reloading the entire page. It uses the Document Object Model (DOM) to access and modify HTML elements.
+Example: JavaScript can change the text of a heading or change the background color when a user clicks a button.
+```
 
 **Q16.** List any four areas (apart from web browsers) where JavaScript is used today. Mention one popular framework/library for each (if applicable).
+```
+Answer :-Four Uses of JavaScript:
+
+Server-side development – Node.js
+
+Mobile app development – React Native
+
+Desktop applications – Electron
+
+Game development – Phaser
+```
 
 **Q17.** What is the difference between writing JavaScript code:
 - Inside an HTML file using `<script>` tag, and
 - In an external `.js` file?  
 Mention two advantages of using an external JavaScript file.
+```
+Answer :-**Difference:**
+
+* **Inside HTML using `<script>`:** JavaScript code is written directly in the HTML file.
+* **External `.js` file:** JavaScript code is written in a separate file and linked to the HTML using `<script src="file.js"></script>`.
+
+**Two advantages of external JavaScript:**
+
+1. The same JavaScript file can be used on multiple HTML pages.
+2. It makes the HTML code cleaner and easier to maintain.
+
+```
 
 **Q18.** Explain the difference between Frontend and Backend using the **restaurant analogy** in your own words.
+```
+Answer :-**Frontend:**
+The frontend is like the **dining area of a restaurant**. It is what customers can see and interact with, such as tables, menus, and buttons.
+
+**Backend:**
+The backend is like the **kitchen of a restaurant**. Customers cannot see it, but it processes orders, prepares food, and manages everything behind the scenes.
+
+**Example:** When you order food through a website, the **frontend** takes your order, while the **backend** processes it and sends the order to the kitchen.
+
+```
 
 **Q19.** Why should a beginner learn JavaScript? Write at least 4 points.
+```
+Answer :-
 
+1. It is **easy to learn** for beginners.
+2. It makes websites **interactive and dynamic**.
+3. It is used in **web, mobile, desktop, and game development**.
+4. It has a **large community and many learning resources**.
+5. It provides **good career opportunities** in software development.
+
+```
 ---
 
 ## Section E: Code-Based Questions (3 Marks each)
@@ -191,10 +258,67 @@ value = false;
 console.log(typeof value);
 ```
 
+```
+Answer :-**Output:**
+
+```text
+number
+string
+boolean
+```
+
+**Explanation:**
+
+* `value = 25` → `25` is a **number**, so `typeof value` gives `number`.
+* `value = "JavaScript"` → It is a **string**, so `typeof value` gives `string`.
+* `value = false` → It is a **boolean**, so `typeof value` gives `boolean`.
+
+JavaScript is **dynamically typed**, so the same variable can store different types of values.
+
+
 **Q21.** Write a simple HTML + JavaScript program that displays an alert box with the message **"Welcome to JavaScript!"** when a button is clicked.
+```
+Answer :-
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Alert</title>
+</head>
+<body>
+
+    <button onclick="showMessage()">Click Me</button>
+
+    <script>
+        function showMessage() {
+            alert("Welcome to JavaScript!");
+        }
+    </script>
+
+</body>
+</html>
+```
 
 **Q22.** Write JavaScript code to demonstrate **event-driven programming**.  
 When a user clicks a button with id `"myBtn"`, the text of a paragraph with id `"demo"` should change to `"Button was clicked!"`.
+```
+Answer :-
+<!DOCTYPE html>
+<html>
+<body>
+
+    <button id="myBtn">Click Me</button>
+    <p id="demo">Click the button.</p>
+
+    <script>
+        document.getElementById("myBtn").addEventListener("click", function() {
+            document.getElementById("demo").textContent = "Button was clicked!";
+        });
+    </script>
+
+</body>
+</html>
+```
 
 ---
 
@@ -210,6 +334,31 @@ When a user clicks a button with id `"myBtn"`, the text of a paragraph with id `
 4. Also print `"JavaScript is running successfully!"` in the browser console.
 
 **Write the complete code** (you can use Inline or External JavaScript).
+```
+Answer :-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First JavaScript Page</title>
+</head>
+<body>
+
+    <h1>My First JavaScript Page</h1>
+
+    <button onclick="changePage()">Click Me</button>
+
+    <script>
+        console.log("JavaScript is running successfully!");
+
+        function changePage() {
+            alert("Hello, B.Tech Student!");
+            document.body.style.backgroundColor = "lightblue";
+        }
+    </script>
+
+</body>
+</html>
+```
 
 ---
 
@@ -217,16 +366,20 @@ When a user clicks a button with id `"myBtn"`, the text of a paragraph with id `
 
 **Q24.** JavaScript was originally created only for browsers. Today it is used in frontend, backend, mobile apps, desktop apps, and even AI/ML.  
 In your own words, explain why JavaScript became so popular and multipurpose. Mention the role of **Node.js** and **ECMAScript** updates in this growth.
+```
+Answer :-JavaScript became popular because it is **easy to learn, flexible, and supported by almost all web browsers**. It allows developers to make websites interactive and can also be used for many other types of applications.
+
+1. **Node.js:** It allowed JavaScript to run outside the browser, especially on servers. This made JavaScript useful for **backend development** and APIs.
+
+2. **ECMAScript Updates:** Regular ECMAScript updates introduced new features, making JavaScript more powerful, modern, and easier to use.
+
+3. **Many Frameworks and Libraries:** Tools such as React, Angular, and Vue made JavaScript useful for building large and interactive applications.
+
+4. **Wide Range of Uses:** JavaScript is now used for **frontend, backend, mobile apps, desktop apps, games, and AI/ML applications**.
+
+Therefore, JavaScript grew from a browser scripting language into a **versatile programming language used across many areas of software development**.
+
+```
 
 ---
 
-### Submission Guidelines
-- Write your answers in a notebook or type them in a document.
-- For coding questions, test your code using browser console, VS Code Live Server, or online editors (CodePen / JSFiddle).
-- Submit the answers on Github CodingGita Assignment Repo in JavaScript Folder before the given deadline.
-
-**All the Best!**
-
----
-
-### Deadline : 28th September, 2026

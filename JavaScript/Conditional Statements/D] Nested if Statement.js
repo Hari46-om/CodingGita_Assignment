@@ -59,3 +59,68 @@ if(year%4==0){
 
 6.
 
+let email="abc.cg@gmail.com";
+
+if(email.includes('@')==true){
+    console.log("yes")
+    let l = email.length;
+    let last_chars =email[1-4]+email[l-3]+email[l-2]+email[l-1]
+    if (last_chars==".com"){
+        if(l>10){
+            console.log(`the email ${email} is valid Email`)
+        }
+    }
+}
+
+7.
+
+let cartTotal =1001;
+let isPrimeMember=true;
+
+if (cartTotal>=1000){
+    if(isPrimeMember==true){
+        cartTotal=cartTotal-(cartTotal*0.20)
+    }else{
+        cartTotal=cartTotal-(cartTotal*0.10)
+    }
+}
+
+console.log(cartTotal)
+
+8.
+
+let num2=24
+if(num2>0){
+    if(num2%2==0){
+        if(num2%4){
+            console.log("Positive Even and Divisible by 4")
+        }
+    }
+}
+
+9.
+
+let age1=54
+let hasGraduationDegree=true
+let experience=3
+if (age1>=21 && age1<=30){
+    if(hasGraduationDegree==true){
+        if(experience>=2){
+            console.log("Eligible for Interview” only if all three conditions are true.")
+        }
+    }
+}
+
+10.
+
+let isPresent=true
+let internalmark=35
+let externalmark=45
+if(isPresent==true){
+    if(internalmark>=30){
+        if(externalmark>=35){
+            console.log("Eligible for Final Exam")
+        }
+    }
+}
+

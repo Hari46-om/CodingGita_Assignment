@@ -25,6 +25,20 @@
 //     attempt += 1
 // }
 
+let Password=1234
+let flag=false
+for(let i=1;i<=5;i++){
+    let enteredPassword=prompt("enter the Password :");
+    if(parseInt(enteredPassword)===Password){
+        console.log("Access granted");
+        flag = true
+        break
+    }
+}
+if(flag==false){
+    console.log("account locked") 
+}
+
 
 3.
 
